@@ -1,0 +1,49 @@
+{
+    "applications": [
+        {
+            "name": "3241243",
+            "phone": "2125",
+            "email": "21312@1231235",
+            "course": "course-vue",
+            "status": "inwork",
+            "date": "02.03.2023, 15:55:52",
+            "id": 1
+        },
+        {
+            "name": "12312",
+            "phone": "123123",
+            "email": "5555@33333",
+            "course": "course-js",
+            "status": "new",
+            "date": "07.03.2023, 10:07:37",
+            "id": 3
+        },
+        {
+            "name": "4124",
+            "phone": "67676",
+            "email": "5351@31245125",
+            "course": "course-php",
+            "status": "complete",
+            "date": "07.03.2023, 10:12:40",
+            "id": 4
+        },
+        {
+            "name": "6546456",
+            "phone": "6546546",
+            "email": "6456@7675",
+            "course": "course-vue",
+            "status": "inwork",
+            "date": "07.03.2023, 10:13:53",
+            "id": 6
+        },
+        {
+            "name": "34534",
+            "phone": "345435",
+            "email": "54545@5445",
+            "course": "course-html",
+            "date": "07.03.2023, 10:15:17",
+            "status": "new",
+            "id": 7
+        }
+    ]
+}
